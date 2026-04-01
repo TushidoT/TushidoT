@@ -26,13 +26,17 @@
 
 ###
 
+<br clear="both">
+
 <p align="left">I’m currently getting into software development, and I’m also really into cybersecurity - even though I’m still a total beginner :D<br><br>I’ve been practicing my programming skills a lot, and I’m currently working on projects focused on learning the fundamentals using C#, Python, and the stack of JS, React, and PostgreSQL.<br><br>I enjoy learning about a wide variety of topics, especially those related to history!<br><br>Feel free to reach out if you’d like to discuss a project or just c:</p>
 
 ###
-
+<br>
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
@@ -49,20 +53,12 @@
 </div>
 
 ###
-
+<br>
 <h3 align="left">★   My Stats :</h3>
 
-###
-
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/TushidoT/TushidoT/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=TushidoT&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
