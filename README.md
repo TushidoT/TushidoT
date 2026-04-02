@@ -28,7 +28,7 @@
 
 <br clear="both">
 
-<p align="left">I’m currently getting into software development, and I’m also really into cybersecurity - even though I’m still a total beginner :D<br><br>I’ve been practicing my programming skills a lot, and I’m currently working on projects focused on learning the fundamentals using C#, Python, and the stack of JS, React, and PostgreSQL.<br><br>I enjoy learning about a wide variety of topics, especially those related to history!<br><br>Feel free to reach out if you’d like to discuss a project or just c:</p>
+<p align="left">I’m currently getting into software development, and also studying cybersecurity - even though I’m still a total beginner :D. <br>I’ve been practicing my programming skills a lot; currently working on projects focused on learning the fundamentals using C#, Python, and the stack of JS, React, and PostgreSQL. I enjoy learning about a wide variety of topics, especially those related to history!<br><br>Feel free to reach out if you’d like to discuss a project or just c:</p>
 
 ###
 <br>
